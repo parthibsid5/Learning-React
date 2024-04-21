@@ -1,8 +1,13 @@
+
+
+import Demo from "./Demo"
+
 function App() {
   return (
-    <h1>
-      This is the manual react app creation | Parthib Sarkar
-    </h1>
+    <>
+      <Demo/>
+   <h1>Created using react | Parthib</h1>
+    </>
   )
 }
 
